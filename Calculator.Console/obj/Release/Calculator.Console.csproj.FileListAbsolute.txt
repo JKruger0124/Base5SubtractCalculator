@@ -1,0 +1,8 @@
+E:\Development\Learnings\Calculator\Calculator.Console\bin\Release\Calculator.Console.exe.config
+E:\Development\Learnings\Calculator\Calculator.Console\bin\Release\Calculator.Console.exe
+E:\Development\Learnings\Calculator\Calculator.Console\bin\Release\Calculator.Console.pdb
+E:\Development\Learnings\Calculator\Calculator.Console\bin\Release\Calculator.Lib.dll
+E:\Development\Learnings\Calculator\Calculator.Console\bin\Release\Calculator.Lib.pdb
+E:\Development\Learnings\Calculator\Calculator.Console\obj\Release\Calculator.Console.csprojResolveAssemblyReference.cache
+E:\Development\Learnings\Calculator\Calculator.Console\obj\Release\Calculator.Console.exe
+E:\Development\Learnings\Calculator\Calculator.Console\obj\Release\Calculator.Console.pdb

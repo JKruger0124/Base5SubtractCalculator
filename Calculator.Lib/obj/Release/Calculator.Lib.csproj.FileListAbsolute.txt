@@ -1,0 +1,5 @@
+E:\Development\Learnings\Calculator\Calculator.Lib\bin\Release\Calculator.Lib.dll
+E:\Development\Learnings\Calculator\Calculator.Lib\bin\Release\Calculator.Lib.pdb
+E:\Development\Learnings\Calculator\Calculator.Lib\obj\Release\Calculator.Lib.csprojResolveAssemblyReference.cache
+E:\Development\Learnings\Calculator\Calculator.Lib\obj\Release\Calculator.Lib.dll
+E:\Development\Learnings\Calculator\Calculator.Lib\obj\Release\Calculator.Lib.pdb

@@ -1,0 +1,4 @@
+E:\Development\Learnings\Calculator\Calculator.Lib\bin\Debug\Calculator.Lib.dll
+E:\Development\Learnings\Calculator\Calculator.Lib\bin\Debug\Calculator.Lib.pdb
+E:\Development\Learnings\Calculator\Calculator.Lib\obj\Debug\Calculator.Lib.dll
+E:\Development\Learnings\Calculator\Calculator.Lib\obj\Debug\Calculator.Lib.pdb

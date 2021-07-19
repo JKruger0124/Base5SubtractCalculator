@@ -1,0 +1,8 @@
+E:\Development\Learnings\Calculator\Calculator.Tests\bin\Release\Calculator.Tests.dll
+E:\Development\Learnings\Calculator\Calculator.Tests\bin\Release\Calculator.Tests.pdb
+E:\Development\Learnings\Calculator\Calculator.Tests\bin\Release\Calculator.Lib.dll
+E:\Development\Learnings\Calculator\Calculator.Tests\bin\Release\nunit.framework.dll
+E:\Development\Learnings\Calculator\Calculator.Tests\bin\Release\Calculator.Lib.pdb
+E:\Development\Learnings\Calculator\Calculator.Tests\obj\Release\Calculator.Tests.csprojResolveAssemblyReference.cache
+E:\Development\Learnings\Calculator\Calculator.Tests\obj\Release\Calculator.Tests.dll
+E:\Development\Learnings\Calculator\Calculator.Tests\obj\Release\Calculator.Tests.pdb
